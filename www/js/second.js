@@ -1,4 +1,4 @@
-document.getElementById('field_submit').addEventListener('click',function(){
+document.addEventListener('click',function(){
 	let input = document.getElementById('field_input').value;
 	if(input != ""){
 		let testCount = 0;
