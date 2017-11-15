@@ -2,7 +2,7 @@ body{
     margin: 10px;
     background-image: url("../img/bg3.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100px;
+    background-size: 100% 1800px;
     padding:50px;
 }
 
@@ -21,7 +21,7 @@ body{
 
 
 .container{
-    width:600px;
+    width:400px;
     height: 500px;
     text-align: center;
     background-color: rgba(52, 73, 94, 0.7);
