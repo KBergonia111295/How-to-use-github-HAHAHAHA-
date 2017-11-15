@@ -22,7 +22,7 @@ body{
 
 .container{
     width:600px;
-    height: 800px;
+    height: 500px;
     text-align: center;
     background-color: rgba(52, 73, 94, 0.7);
     border-radius: 40px;
@@ -45,7 +45,7 @@ body{
 
 input[type="text"],input[type="password"]{
     height: 75px;
-    width: 600px;
+    width: 300px;
     font-size: 25px;
     margin-bottom: 50px;
     border-radius: 15px;
